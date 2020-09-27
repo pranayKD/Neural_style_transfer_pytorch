@@ -47,7 +47,7 @@ As we go deeper into the network, quality of regenerated image gets worse.
 
 
 ---------
-## Content Transfer
+## Style Transfer
 
 Better global texture information is captured in the deeper layers 
 
