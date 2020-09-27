@@ -25,8 +25,8 @@ This code is the implementation of paper -
 ## Training Images 
 
 <p float="left">
-  <img src="Images/inputs/chicago.jpg" width="200" />
-  <img src="Images/inputs/wave.jpg" width="200" /> 
+  <img src="Images/inputs/chicago.jpg" width="200" height="200" />
+  <img src="Images/inputs/wave.jpg" width="200" height="200"/> 
 </p>
 
 
