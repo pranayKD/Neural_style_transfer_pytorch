@@ -26,7 +26,7 @@ This code is the implementation of paper -
 
 <p float="left">
   <img src="Images/inputs/chicago.jpg" width="200" />
-  <img src="Images/inputs/wave.png" width="200" /> 
+  <img src="Images/inputs/wave.jpg" width="200" /> 
 </p>
 
 
