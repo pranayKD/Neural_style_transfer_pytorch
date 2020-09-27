@@ -27,10 +27,10 @@ This code is the implementation of paper -
 As we go deeper into the network, quality of regenerated image gets worse. 
 
 <p float="left">
-  <img src="Images/results/content-1.png" width="100" />
-  <img src="Images/results/content-3.png" width="100" /> 
-  <img src="Images/results/content-5.png" width="100" />
-  <img src="Images/results/content-7.png" width="100" />
+  <img src="Images/results/content-1.png" width="300" />
+  <img src="Images/results/content-3.png" width="300" /> 
+  <img src="Images/results/content-5.png" width="300" />
+  <img src="Images/results/content-7.png" width="300" />
 </p>
 
 <img src="Images/results/content-1.png"/> | <img src="Images/results/content-3.png"/> | <img src="Images/results/content-5.png"/> | <img src="Images/results/content-7.png"/>
