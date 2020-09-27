@@ -22,9 +22,34 @@ This code is the implementation of paper -
 
 ---------
 
+## Training Images 
+
+<p float="left">
+  <img src="Images/inputs/chicago.jpg" width="200" />
+  <img src="Images/inputs/wave.png" width="200" /> 
+</p>
+
+
+
+---------
+
 ## Feature Inversion
 
 As we go deeper into the network, quality of regenerated image gets worse. 
+
+<p float="left">
+  <img src="Images/results/feature-1.png" width="200" />
+  <img src="Images/results/feature-3.png" width="200" /> 
+  <img src="Images/results/feature-5.png" width="200" />
+  <img src="Images/results/feature-7.png" width="200" />
+</p>
+
+
+
+---------
+## Content Transfer
+
+Better global texture information is captured in the deeper layers 
 
 <p float="left">
   <img src="Images/results/content-1.png" width="200" />
@@ -33,21 +58,15 @@ As we go deeper into the network, quality of regenerated image gets worse.
   <img src="Images/results/content-7.png" width="200" />
 </p>
 
-<img src="Images/results/content-1.png"/> | <img src="Images/results/content-3.png"/> | <img src="Images/results/content-5.png"/> | <img src="Images/results/content-7.png"/>
-
----------
-## Content Transfer
-
-
 --------
 ## Generated Images
 
 
-Input Image | Predictions
------------- | -------------
-<img src="Images/frackleberry.png" width="100" height="32" /> | farkleberry
-<img src="Images/turnstiles.png" width="100" height="32" /> | turnstiles
-
+<p float="left">
+  <img src="Images/results/out-1.png" width="200" />
+  <img src="Images/results/out-3.png" width="200" /> 
+  <img src="Images/results/out-5.png" width="200" />
+</p>
 
 
 
