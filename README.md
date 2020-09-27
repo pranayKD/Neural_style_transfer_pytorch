@@ -26,7 +26,7 @@ This code is the implementation of paper -
 
 As we go deeper into the network, quality of regenerated image gets worse. 
 
-<img src="Images/content-1.png"/> | <img src="Images/content-3.png"/> | <img src="Images/content-5.png"/> | <img src="Images/content-7.png"/>
+<img src="Images/results/content-1.png"/> | <img src="Images/results/content-3.png"/> | <img src="Images/results/content-5.png"/> | <img src="Images/results/content-7.png"/>
 
 ---------
 ## Content Transfer
